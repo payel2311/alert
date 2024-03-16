@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "397091019060",
+    "project_id": "fire-f6521",
+    "storage_bucket": "fire-f6521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397091019060:android:b0b49125e3b6a46b6eed61",
+        "android_client_info": {
+          "package_name": "com.example.flutterss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-AuhTOiAA_l7uMsGJn7ReVIvQd-hd58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397091019060:android:df9bf23b9a5e6fcb6eed61",
+        "android_client_info": {
+          "package_name": "com.example.newproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-AuhTOiAA_l7uMsGJn7ReVIvQd-hd58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
